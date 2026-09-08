@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on The Abri Curation</title>
+    <link>http://localhost:1313/HomeAppliances/posts/</link>
+    <description>Recent content in Posts on The Abri Curation</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/HomeAppliances/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Best Water Purifiers for Indian Homes</title>
+      <link>http://localhost:1313/HomeAppliances/posts/10-best-water-purifiers-india/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HomeAppliances/posts/10-best-water-purifiers-india/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Test Article — Sample Post</title>
+      <link>http://localhost:1313/HomeAppliances/posts/test-article/</link>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HomeAppliances/posts/test-article/</guid>
+      <description>&lt;h2 id=&#34;this-is-a-test-heading&#34;&gt;This is a Test Heading&lt;/h2&gt;
+&lt;p&gt;This is a sample paragraph to check if regular text is rendering correctly. If you can read this on the live site, plain Markdown text is working fine.&lt;/p&gt;
+&lt;p&gt;Here is a bullet list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First test item&lt;/li&gt;
+&lt;li&gt;Second test item&lt;/li&gt;
+&lt;li&gt;Third test item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here is a &lt;strong&gt;bold word&lt;/strong&gt; and an &lt;em&gt;italic word&lt;/em&gt; to check basic formatting.&lt;/p&gt;
+&lt;h3 id=&#34;sample-table-below&#34;&gt;Sample Table Below&lt;/h3&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Product&lt;/th&gt;
+					&lt;th&gt;Score&lt;/th&gt;
+					&lt;th&gt;Price&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Sample Item One&lt;/td&gt;
+					&lt;td&gt;9.5/10&lt;/td&gt;
+					&lt;td&gt;₹9,999&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Sample Item Two&lt;/td&gt;
+					&lt;td&gt;8.7/10&lt;/td&gt;
+					&lt;td&gt;₹14,499&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;If this table shows up as an actual grid with borders, tables are working too.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

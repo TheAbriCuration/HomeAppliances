@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/HomeAppliances/posts/10-best-water-purifiers-india/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HomeAppliances/posts/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HomeAppliances/posts/test-article/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HomeAppliances/</loc>
+    <lastmod>2026-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/HomeAppliances/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HomeAppliances/tags/</loc>
+  </url>
+</urlset>
